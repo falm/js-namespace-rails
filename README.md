@@ -28,7 +28,7 @@ Require js-namespace-rails file in application.js or other bundle,notice js-name
 ## Usage
 Assume your project have articles_controller
 ``` ruby
-	class ArticlesController < ApplicationController
+    class ArticlesController < ApplicationController
 		def index
 		end
 	end
