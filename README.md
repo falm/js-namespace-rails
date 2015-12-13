@@ -18,10 +18,10 @@ gem 'js-namespace-rails', github: 'falm/js-namepsace-rails'
 Require js-namespace-rails file in application.js or other bundle,notice js-namespace-rails depends on jquery so you need require 'jquery' before
 
 ``` js
-/*
-= require jquery
-= require js-routes
-*/
+
+//= require jquery
+//= require js-namespace-rails
+
 ```
 
 
