@@ -7,3 +7,6 @@
 /pkg/
 /spec/reports/
 /tmp/
+/js-namespace-rails/
+.idea/
+.DS_Store

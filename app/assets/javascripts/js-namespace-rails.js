@@ -28,6 +28,12 @@
       return out_options;
     };
 
+    self.setInit = function(controllerName, actionName){
+      var $body = $('body');
+      $body.attr('data-controller', controllerName);
+      $body.attr('data-action', actionName);
+    };
+
     self.init = function(controllerName, actionName){
 
       var params = [self.fetchParams()];
@@ -63,4 +69,4 @@
 
   win.JsSpace = jsNamespace;
 
-})($, this);
+})(jQuery, this);
