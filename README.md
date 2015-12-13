@@ -19,14 +19,14 @@ Require js-namespace-rails file in application.js or other bundle,notice js-name
 
 ``` js
 //= require jquery
-//= require js-routes
+//= require js-namespace-rails
 ```
 
 
 ## Usage
 Assume your project have articles_controller
 ``` ruby
-	class ArticlesController < ApplicationController
+    class ArticlesController < ApplicationController
 		def index
 		end
 	end
