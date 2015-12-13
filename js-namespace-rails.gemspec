@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Jason Hou']
   spec.email         = ['hjj1992@gmail.com']
 
-  spec.summary       = %q{js-namespace-rails let you choose which javascript snippet can execute in rails assets pipline}
+  spec.summary       = %q{js-namespace-rails let you choose which javascript snippet can execute in rails assets pipeline}
   spec.description   = %q{Namespace and Selectively Execute Javascript}
   spec.homepage      = 'https://github.com/falm/js-namespace-rails'
 
