@@ -33,7 +33,7 @@ Assume your project have articles_controller
 ```
 And its corresponding js file app/assets/javascripts/articles.js.erb
 
-then you just need to write blew into the js file
+then you just need to write below into the js file
 ``` js
 	// app/assets/javascripts/articles.js.erb
 	JsSpace.on('articles', {
