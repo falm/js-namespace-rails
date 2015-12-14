@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.description   = %q{Namespace and Selectively Execute Javascript}
   spec.homepage      = 'https://github.com/falm/js-namespace-rails'
 
-  spec.files         = Dir['{lib,app}/**/*'] + %w{MIT-LICENSE, README.md}
+  spec.files         = Dir['{lib,app}/**/*'] + %w{README.md}
   spec.bindir        = 'exe'
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }
   spec.require_paths = ['lib']
@@ -26,7 +26,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'jquery-rails'#, "~> 3.0"
   spec.add_dependency 'sprockets-rails'
 
-  spec.add_development_dependency 'jquery-rails'#, "~> 3.0"
   spec.add_development_dependency "bundler", "~> 1.8"
   spec.add_development_dependency "rake", "~> 10.0"
 end

@@ -10,7 +10,7 @@ js-namespace-rails can handle this problem by using it's method to namespace and
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'js-namespace-rails', github: 'falm/js-namepsace-rails'
+gem 'js-namespace-rails'
 ```
 
 ## Setup
