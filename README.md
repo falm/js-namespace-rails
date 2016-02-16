@@ -48,6 +48,9 @@ then you just need to write blew into the js file
 	});
 ```
 
+## License
+MIT License.
+
 
 
 

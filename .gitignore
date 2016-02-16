@@ -10,4 +10,6 @@
 /js-namespace-rails/
 .idea/
 .DS_Store
-.travis.yml
+#.travis.yml
+*.gem
+*.un~
