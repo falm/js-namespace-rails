@@ -13,4 +13,5 @@
 #.travis.yml
 *.gem
 *.un~
-/spec/dummy/tmp
+/spec/dummy/tmp/
+/spec/dummy/log/
