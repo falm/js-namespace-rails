@@ -1,0 +1,446 @@
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:33:49 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 190ms (Views: 189.7ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:34:59 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 173ms (Views: 172.3ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:36:18 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 177ms (Views: 177.3ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:39:45 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 236ms (Views: 235.2ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:39:45 +0800
+Started GET "/assets/application-e3cd551fb1f7f03d7a4e8b359a9dd3922a600cb61c542412e8f8e0bb92ea8b9a.js" for 127.0.0.1 at 2016-02-17 15:39:45 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:45:03 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 269ms (Views: 268.8ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:45:04 +0800
+Started GET "/assets/application-e3cd551fb1f7f03d7a4e8b359a9dd3922a600cb61c542412e8f8e0bb92ea8b9a.js" for 127.0.0.1 at 2016-02-17 15:45:04 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:50:38 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 220ms (Views: 219.5ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:50:38 +0800
+Started GET "/assets/application-e3cd551fb1f7f03d7a4e8b359a9dd3922a600cb61c542412e8f8e0bb92ea8b9a.js" for 127.0.0.1 at 2016-02-17 15:50:38 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:52:11 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 213ms (Views: 212.9ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:52:11 +0800
+Started GET "/assets/application-e3cd551fb1f7f03d7a4e8b359a9dd3922a600cb61c542412e8f8e0bb92ea8b9a.js" for 127.0.0.1 at 2016-02-17 15:52:11 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:53:41 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 207ms (Views: 206.9ms)
+Started GET "/assets/application-e3cd551fb1f7f03d7a4e8b359a9dd3922a600cb61c542412e8f8e0bb92ea8b9a.js" for 127.0.0.1 at 2016-02-17 15:53:42 +0800
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:53:42 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:54:04 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 212ms (Views: 211.9ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:54:04 +0800
+Started GET "/assets/application-e3cd551fb1f7f03d7a4e8b359a9dd3922a600cb61c542412e8f8e0bb92ea8b9a.js" for 127.0.0.1 at 2016-02-17 15:54:04 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:56:12 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 265ms (Views: 264.5ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:56:12 +0800
+Started GET "/assets/application-e3cd551fb1f7f03d7a4e8b359a9dd3922a600cb61c542412e8f8e0bb92ea8b9a.js" for 127.0.0.1 at 2016-02-17 15:56:12 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:58:58 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 260ms (Views: 259.6ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:58:58 +0800
+Started GET "/assets/application-1e055f54cc949732f2bd531cff0a33c0b76c214b0836c6b20a9ee8a0cc4f814e.js" for 127.0.0.1 at 2016-02-17 15:58:58 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 15:59:20 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 229ms (Views: 228.5ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 15:59:21 +0800
+Started GET "/assets/application-1e055f54cc949732f2bd531cff0a33c0b76c214b0836c6b20a9ee8a0cc4f814e.js" for 127.0.0.1 at 2016-02-17 15:59:21 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:03:26 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 274ms (Views: 274.1ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:03:27 +0800
+Started GET "/assets/application-1e055f54cc949732f2bd531cff0a33c0b76c214b0836c6b20a9ee8a0cc4f814e.js" for 127.0.0.1 at 2016-02-17 16:03:27 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:06:28 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 195ms (Views: 194.5ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:06:30 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.7ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:06:30 +0800
+Started GET "/assets/application-1e055f54cc949732f2bd531cff0a33c0b76c214b0836c6b20a9ee8a0cc4f814e.js" for 127.0.0.1 at 2016-02-17 16:06:30 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:10:34 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 207ms (Views: 206.3ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:10:35 +0800
+Started GET "/assets/application-1e055f54cc949732f2bd531cff0a33c0b76c214b0836c6b20a9ee8a0cc4f814e.js" for 127.0.0.1 at 2016-02-17 16:10:35 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:10:35 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:16:21 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.2ms)
+Completed 200 OK in 290ms (Views: 289.0ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:16:21 +0800
+Started GET "/assets/application-1e055f54cc949732f2bd531cff0a33c0b76c214b0836c6b20a9ee8a0cc4f814e.js" for 127.0.0.1 at 2016-02-17 16:16:21 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:16:21 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.4ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:16:29 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 218ms (Views: 217.5ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:16:29 +0800
+Started GET "/assets/application-1e055f54cc949732f2bd531cff0a33c0b76c214b0836c6b20a9ee8a0cc4f814e.js" for 127.0.0.1 at 2016-02-17 16:16:29 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:16:29 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.9ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:19:35 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 230ms (Views: 229.7ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:19:36 +0800
+Started GET "/assets/application-1e055f54cc949732f2bd531cff0a33c0b76c214b0836c6b20a9ee8a0cc4f814e.js" for 127.0.0.1 at 2016-02-17 16:19:36 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:19:36 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:23:38 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 222ms (Views: 221.6ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:23:38 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:23:38 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:23:39 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:30:10 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 223ms (Views: 222.7ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:30:10 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:30:10 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:30:10 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.5ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:31:23 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 212ms (Views: 211.3ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:31:24 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:31:24 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:31:24 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.6ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:32:33 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 218ms (Views: 217.7ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:32:33 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:32:33 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:32:33 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:53:09 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 192ms (Views: 191.2ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:53:10 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:53:10 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:53:10 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:54:07 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 190ms (Views: 189.5ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:54:07 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:54:07 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:54:07 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:57:41 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 200ms (Views: 199.5ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:57:41 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:57:41 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:57:41 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:58:24 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 209ms (Views: 208.8ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:58:24 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:58:24 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:58:24 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.5ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:58:51 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 185ms (Views: 184.3ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:58:52 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:58:52 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:58:52 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.5ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:59:08 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 208ms (Views: 207.4ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 16:59:09 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 16:59:09 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 16:59:09 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:00:52 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 197ms (Views: 197.2ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:00:52 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 17:00:52 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:00:52 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.3ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:01:27 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 198ms (Views: 197.4ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:01:27 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 17:01:27 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:01:27 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.6ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:02:49 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 196ms (Views: 195.4ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:02:49 +0800
+Started GET "/assets/application-96e92b7c34a39c5ddde01c147c0277db99e22406eb5967f849cc4fd23d72f04e.js" for 127.0.0.1 at 2016-02-17 17:02:49 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:02:49 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:10:30 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 206ms (Views: 205.4ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:10:31 +0800
+Started GET "/assets/application-4ce24019820b90e6415dbc0d9ea2dc6eb1524371d6946f6313b7f8833261a02f.js" for 127.0.0.1 at 2016-02-17 17:10:31 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:10:31 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:11:03 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 191ms (Views: 190.7ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:11:03 +0800
+Started GET "/assets/application-4ce24019820b90e6415dbc0d9ea2dc6eb1524371d6946f6313b7f8833261a02f.js" for 127.0.0.1 at 2016-02-17 17:11:03 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:11:03 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:14:27 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 204ms (Views: 203.8ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:14:27 +0800
+Started GET "/assets/application-4ce24019820b90e6415dbc0d9ea2dc6eb1524371d6946f6313b7f8833261a02f.js" for 127.0.0.1 at 2016-02-17 17:14:27 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:14:27 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:26:02 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 249ms (Views: 248.6ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:26:03 +0800
+Started GET "/assets/application-176515dc6401bdb67dd2c3b3094367ff2692d2905b8617bd545cb5ab4c1a4b7f.js" for 127.0.0.1 at 2016-02-17 17:26:03 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:26:03 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 3.0ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:30:17 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 250ms (Views: 250.2ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:30:17 +0800
+Started GET "/assets/application-4f5904eec7013f7e085987a39f53032458bdffd1a6881a8cc664d2c5af48e63d.js" for 127.0.0.1 at 2016-02-17 17:30:17 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:30:17 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:31:03 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 210ms (Views: 209.3ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:31:04 +0800
+Started GET "/assets/application-177aaed292e9d6d641a228a60e0d6bd2bbf41de710ab83a15551ca611177defd.js" for 127.0.0.1 at 2016-02-17 17:31:04 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:31:04 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.5ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:35:24 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 199ms (Views: 198.9ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 17:35:24 +0800
+Started GET "/assets/application-177aaed292e9d6d641a228a60e0d6bd2bbf41de710ab83a15551ca611177defd.js" for 127.0.0.1 at 2016-02-17 17:35:24 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 17:35:24 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:01:18 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 195ms (Views: 195.2ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:01:18 +0800
+Started GET "/assets/application-177aaed292e9d6d641a228a60e0d6bd2bbf41de710ab83a15551ca611177defd.js" for 127.0.0.1 at 2016-02-17 18:01:18 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:01:18 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 2.4ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:07:21 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 188ms (Views: 187.6ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:07:21 +0800
+Started GET "/assets/application-177aaed292e9d6d641a228a60e0d6bd2bbf41de710ab83a15551ca611177defd.js" for 127.0.0.1 at 2016-02-17 18:07:21 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:07:21 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:08:33 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 207ms (Views: 206.3ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:08:33 +0800
+Started GET "/assets/application-06f8cf8b0b791efa1a23db10f07dab2ce65042712a404782ca5f2a70853ec70d.js" for 127.0.0.1 at 2016-02-17 18:08:33 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:08:33 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:10:56 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 194ms (Views: 193.3ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:10:57 +0800
+Started GET "/assets/application-1b2db32926ecf43a61d39e0a257539821450c9a2725d5684eb2c5ad8dfd194ea.js" for 127.0.0.1 at 2016-02-17 18:10:57 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:10:57 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:12:00 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 195ms (Views: 194.7ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:12:00 +0800
+Started GET "/assets/application-1b2db32926ecf43a61d39e0a257539821450c9a2725d5684eb2c5ad8dfd194ea.js" for 127.0.0.1 at 2016-02-17 18:12:00 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:12:00 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1ms (Views: 1.3ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:12:46 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.3ms)
+Completed 500 Internal Server Error in 195ms
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:12:47 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 3ms
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:13:16 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.6ms)
+Completed 500 Internal Server Error in 191ms
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:13:17 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 3ms
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:19:54 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 353ms (Views: 352.8ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:19:55 +0800
+Started GET "/assets/application-a61f228d137c59109a1fd8cb4666602d6b92237b8060378721ab802bd8003dd4.js" for 127.0.0.1 at 2016-02-17 18:19:55 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:19:55 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:21:17 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 281ms (Views: 280.6ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:21:18 +0800
+Started GET "/assets/application-b56e1d11b546583bd8c08c18ec979846e8618432c74f75a78b62ec0573df3cf0.js" for 127.0.0.1 at 2016-02-17 18:21:18 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:21:18 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:21:48 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 269ms (Views: 268.4ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:21:49 +0800
+Started GET "/assets/application-d32f6f27a72d5b086533439cc2bdab3ceef89134ee17540fbf685a3ab6b4d4c4.js" for 127.0.0.1 at 2016-02-17 18:21:49 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:21:49 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.3ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:26:44 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 307ms (Views: 307.1ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 18:26:44 +0800
+Started GET "/assets/application-f62111fcba364313acf5faee2ef940d416f36589d16b257001c410968587c77b.js" for 127.0.0.1 at 2016-02-17 18:26:44 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:26:44 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 18:26:44 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 19:29:12 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 205ms (Views: 204.9ms)
+Started GET "/assets/application-e80e8f2318043e8af94dddc2adad5a4f09739a8ebb323b3ab31cd71d45fd9113.css" for 127.0.0.1 at 2016-02-17 19:29:12 +0800
+Started GET "/assets/application-f62111fcba364313acf5faee2ef940d416f36589d16b257001c410968587c77b.js" for 127.0.0.1 at 2016-02-17 19:29:12 +0800
+Started GET "/users" for 127.0.0.1 at 2016-02-17 19:29:12 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
+Started GET "/users" for 127.0.0.1 at 2016-02-17 19:29:12 +0800
+Processing by UsersController#index as HTML
+  Rendered users/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms)
