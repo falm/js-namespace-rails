@@ -22,8 +22,6 @@ describe JsNamespaceRails, js: true do
 
   it 'action evaluate will works' do
 
-    # save_and_open_page
-
     expect(page).to have_css('h1.title')
 
     expect(page).to have_content('user_list')
