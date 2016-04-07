@@ -7,9 +7,9 @@ module ActionView::Helpers::AssetTagHelper
 
     origin_result = javascript_include_tag_without_controller(*source)
 
-    if defined?(controller_path)
+    if defined?(controller_path) && !@_included
       _controller = controller_path.gsub(/\//,'_')
-
+      @_included = true
       script = <<STRING
         document.addEventListener('DOMContentLoaded', function() {
           document.getElementsByTagName('body')[0].setAttribute('data-controller', '#{_controller}');

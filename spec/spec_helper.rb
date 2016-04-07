@@ -50,7 +50,7 @@ end
 Rails.backtrace_cleaner.remove_silencers!
 
 RSpec.configure do |config|
-  
+
   # assertions if you prefer.
   config.expect_with :rspec do |expectations|
     # This option will default to `true` in RSpec 4. It makes the `description`
