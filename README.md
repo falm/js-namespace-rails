@@ -1,4 +1,4 @@
-# JsNamespaceRails
+# JsNamespaceRails [![Build Status](https://travis-ci.org/falm/js-namespace-rails.svg?branch=master)](https://travis-ci.org/falm/js-namespace-rails)
 
 
 Rails's asset pipeline compiles all of js file into a single file which is executed on all pages.

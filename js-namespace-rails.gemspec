@@ -19,18 +19,14 @@ Gem::Specification.new do |spec|
   spec.require_paths = ['lib']
 
   spec.licenses      = ["MIT"]
-  # if spec.respond_to?(:metadata)
-  #   spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com' to prevent pushes to rubygems.org, or delete to allow pushes to any server."
-  # end
 
   spec.add_dependency 'railties', '>= 3.1'
   spec.add_dependency 'jquery-rails'#, "~> 3.0"
   spec.add_dependency 'sprockets-rails'
 
-  spec.add_development_dependency "bundler", "~> 1.8"
+  spec.add_development_dependency "bundler", ">= 1.8"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency 'rspec-rails'
-  # spec.add_development_dependency 'selenium-webdriver'
   spec.add_development_dependency 'capybara'
   spec.add_development_dependency 'capybara-webkit'
 end
