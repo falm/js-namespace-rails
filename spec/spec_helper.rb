@@ -1,6 +1,9 @@
 #encoding: utf-8
 ENV["RAILS_ENV"] ||= 'test'
 
+require 'coveralls'
+Coveralls.wear!
+
 require File.expand_path("../dummy/config/environment", __FILE__)
 
 # require 'rspec'
