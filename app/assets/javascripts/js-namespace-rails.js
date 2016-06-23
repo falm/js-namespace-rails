@@ -11,10 +11,10 @@
 
     self.PARAMS_CONTAINER = '.executive-isolation-params';
 
-    self.contrllerList = {};
+    self.controllerList = {};
 
     self.on = function(controllerName, obj){
-      self.contrllerList[controllerName] = obj;
+      self.controllerList[controllerName] = obj;
     };
 
     self.fetchParams = function(){
@@ -38,7 +38,7 @@
 
       var params = [self.fetchParams()];
 
-      var activeController = self.contrllerList[controllerName];
+      var activeController = self.controllerList[controllerName];
 
       if( activeController !== undefined && typeof  activeController === 'object') {
 
