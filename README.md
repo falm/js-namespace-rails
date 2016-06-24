@@ -1,4 +1,4 @@
-# JsNamespaceRails [![Build Status](https://travis-ci.org/falm/js-namespace-rails.svg?branch=master)](https://travis-ci.org/falm/js-namespace-rails) [![Coverage Status](https://coveralls.io/repos/github/falm/js-namespace-rails/badge.svg?branch=master)](https://coveralls.io/github/falm/js-namespace-rails?branch=master)
+# JsNamespaceRails [![Build Status](https://travis-ci.org/falm/js-namespace-rails.svg?branch=master)](https://travis-ci.org/falm/js-namespace-rails) [![Coverage Status](https://coveralls.io/repos/github/falm/js-namespace-rails/badge.svg?branch=master)](https://coveralls.io/github/falm/js-namespace-rails?branch=master) [![Code Climate](https://codeclimate.com/github/falm/js-namespace-rails/badges/gpa.svg)](https://codeclimate.com/github/falm/js-namespace-rails)
 
 
 Rails's asset pipeline compiles all of js file into a single file which is executed on all pages.
@@ -50,7 +50,3 @@ then you just need to write below into the js file
 
 ## License
 MIT License.
-
-
-
-
