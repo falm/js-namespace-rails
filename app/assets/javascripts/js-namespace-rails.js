@@ -17,15 +17,10 @@
       self.controllerList[controllerName] = obj;
     };
 
+    self.params = {};
+
     self.fetchParams = function(){
-      var out_options = {};
-      $(self.PARAMS_CONTAINER).each(function(i, ele){
-        var options = $(ele).data('options');
-        if(options){
-          out_options = $.extend(out_options, options);
-        }
-      });
-      return out_options;
+      return self.params;
     };
 
     self.setInit = function(controllerName, actionName){
