@@ -14,6 +14,7 @@ module ActionView::Helpers::AssetTagHelper
         document.addEventListener('DOMContentLoaded', function() {
           document.getElementsByTagName('body')[0].setAttribute('data-controller', '#{controller_underscore}');
           document.getElementsByTagName('body')[0].setAttribute('data-action', '#{action_name}');
+          window.JsSpace.params = #{@js_namespace_rails_params.to_json};
         });
 STRING
       origin_result + concat(javascript_tag(script, defer: 'defer'))
