@@ -28,24 +28,24 @@ Require js-namespace-rails file in application.js or other bundle,notice js-name
 ## Usage
 Assume your project have articles_controller
 ``` ruby
-    class ArticlesController < ApplicationController
-		def index
-		end
-	end
+class ArticlesController < ApplicationController
+  def index
+  end
+end
 ```
 And its corresponding js file app/assets/javascripts/articles.js.erb
 
 then you just need to write below into the js file
 ``` js
-	// app/assets/javascripts/articles.js.erb
-	JsSpace.on('articles', {
-		init: function(){
-			console.log('common logic of article in here');
-		},
-		index: function(){
-			console.log('logic of index action in here');
-		}
-	});
+// app/assets/javascripts/articles.js.erb
+JsSpace.on('articles', {
+  init: function(){
+  	console.log('common logic of article in here');
+  },
+  index: function(){
+  	console.log('logic of index action in here');
+  }
+});
 ```
 
 ## License
