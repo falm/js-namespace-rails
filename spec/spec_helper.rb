@@ -47,7 +47,7 @@ Bundler.setup
 Capybara.javascript_driver = :webkit
 
 Capybara::Webkit.configure do |config|
-  config.debug = true
+  # config.debug = true
 end
 
 Rails.backtrace_cleaner.remove_silencers!
