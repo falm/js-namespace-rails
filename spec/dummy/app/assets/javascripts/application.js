@@ -19,8 +19,10 @@ JsSpace.on('users', {
   init: function(){
     $('.common-place').text('common_action_works')
   },
-  index: function(){
+  index: function(params){
     $('.title').text('user_list');
+    var puts = ['user_id', params.user_id, 'user_name', params.user_name].join(':');
+    $('.common-place').append(puts);
   },
   new: function(){
     $('h1.title').text('new_user');
