@@ -33,4 +33,12 @@ describe JsNamespaceRails, js: true do
     expect(page).to have_content('common_action_works')
 
   end
+
+  it 'should passing params to users js action' do
+    # puts page.driver.console_messages
+
+    expect(page).to have_content('user_name:Neo')
+
+    expect(page).to have_content('user_id:11')
+  end
 end
