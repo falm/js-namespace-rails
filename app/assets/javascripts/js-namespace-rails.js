@@ -23,26 +23,22 @@
       return self.params;
     };
 
-    self.setInit = function(controllerName, actionName){
-      var $body = $('body');
-      $body.attr('data-controller', controllerName);
-      $body.attr('data-action', actionName);
-    };
-
     self.init = function(controllerName, actionName){
 
-      var params = [self.fetchParams()];
+      var params = self.fetchParams();
 
       var activeController = self.controllerList[controllerName];
 
       if( activeController !== undefined && typeof  activeController === 'object') {
+
+        activeController.params = params;
 
         if(activeController[self.INIT] !== undefined && typeof activeController[self.INIT] === 'function'){
           activeController.init(params);
         }
 
         if(activeController[actionName] !== undefined && typeof activeController[actionName] === 'function'){
-          activeController[actionName].apply(null, params);
+          activeController[actionName].call(activeController, params);
         }
       }
     }
