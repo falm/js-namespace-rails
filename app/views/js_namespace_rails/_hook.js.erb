@@ -1,0 +1,5 @@
+document.addEventListener('DOMContentLoaded', function() {
+  document.getElementsByTagName('body')[0].setAttribute('data-controller', '<%= controller_path.gsub(/\//,'_') %>');
+  document.getElementsByTagName('body')[0].setAttribute('data-action', '<%= action_name %>');
+  window.JsSpace.params = <%= raw @js_namespace_rails_params.to_json %>;
+});
