@@ -26,5 +26,8 @@ JsSpace.on('users', {
   },
   new: function(){
     $('h1.title').text('new_user');
+  },
+  show: function(){
+    $('.common-place').append('show-user');
   }
 });
