@@ -41,4 +41,12 @@ describe JsNamespaceRails, js: true do
 
     expect(page).to have_content('user_id:11')
   end
+
+  it 'should triggle js execute method' do
+    # save_and_open_page
+    expect(page).to have_content('Show')
+    click_link 'Show'
+    expect(page).to have_content('show-user')
+
+  end
 end
