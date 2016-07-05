@@ -1,5 +1,5 @@
 
-(function($, win){
+(function(win){
 
   'use strict';
 
@@ -8,8 +8,6 @@
     var self = this;
 
     self.INIT = 'init';
-
-    self.PARAMS_CONTAINER = '.executive-isolation-params';
 
     self.controllerList = {};
 
@@ -41,18 +39,28 @@
           activeController[actionName].call(activeController, params);
         }
       }
+    };
+
+    self.ready = function(fn){
+      if ( typeof fn !== 'function' ) return;
+
+      if ( document.readyState === 'complete'  ) {
+        return fn();
+      }
+
+      document.addEventListener( 'interactive', fn, false );
     }
   }
 
   var jsNamespace = new JsNamespace();
 
-  $(document).ready(function(){
+  document.addEventListener('DOMContentLoaded', function(){
 
-    var $body = $('body');
+    var $body = document.querySelector('body');
 
-    var controllerName = $body.data('controller');
+    var controllerName = $body.getAttribute('data-controller');
 
-    var actionName = $body.data('action');
+    var actionName = $body.getAttribute('data-action');
 
     jsNamespace.init(controllerName, actionName)
 
@@ -60,4 +68,4 @@
 
   win.JsSpace = jsNamespace;
 
-})(jQuery, this);
+})(this);
