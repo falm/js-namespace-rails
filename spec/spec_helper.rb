@@ -6,9 +6,9 @@ Coveralls.wear!
 
 require File.expand_path("../dummy/config/environment", __FILE__)
 
-# require 'rspec'
 require 'rails/all'
 require 'rspec/rails'
+require 'jquery-rails'
 require 'js-namespace-rails'
 require 'capybara/rspec'
 require 'capybara-webkit'
