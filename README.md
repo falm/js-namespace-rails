@@ -15,11 +15,11 @@ gem 'js-namespace-rails'
 
 ## Setup
 
-Require js-namespace-rails file in application.js or other bundle,notice js-namespace-rails depends on jquery so you need require 'jquery' before
+Require js-namespace-rails file in application.js or other main file,
+**notice** js-namespace-rails has no dependency
 
 ``` js
 
-//= require jquery
 //= require js-namespace-rails
 
 ```
@@ -48,5 +48,27 @@ JsSpace.on('articles', {
 });
 ```
 
+## Feature
+### Passing params to js
+```ruby
+class ArticlesController < ApplicationController
+  def show
+    @article = Article.find(params[:id])
+    js author: @article.author
+    # also you can passing an object
+    js article: @article
+  end
+end
+```
+
+```js
+// app/assets/javascripts/articles.js.erb
+JsSpace.on('articles', {
+  show: function(){
+    console.log(this.params.author); // get author from params
+    console.log(this.params.article.title); // get title of article
+  }
+});
+```
 ## License
 MIT License.
