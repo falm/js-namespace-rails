@@ -49,7 +49,7 @@ JsSpace.on('articles', {
 ```
 
 ## Feature
-### Passing params to js
+### Passing Parameters to js
 ```ruby
 class ArticlesController < ApplicationController
   def show
