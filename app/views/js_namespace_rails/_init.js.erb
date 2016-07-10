@@ -1,2 +1,3 @@
+JsSpace.params = <%= raw @js_namespace_rails_params.to_json %>;
 
 JsSpace.init('<%= controller_path.gsub(/\//,'_')%>', '<%= action_name %>');
