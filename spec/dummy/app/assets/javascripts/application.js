@@ -29,5 +29,6 @@ JsSpace.on('users', {
   },
   show: function(){
     $('.common-place').append('show-user');
+    $('.common-place').append(this.params.message);
   }
 });
