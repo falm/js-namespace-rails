@@ -10,6 +10,7 @@ class UsersController < ApplicationController
   end
 
   def show
+    js message: 'May the force be with you'
   end
 
 end
