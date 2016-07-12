@@ -49,4 +49,10 @@ describe JsNamespaceRails, js: true do
     expect(page).to have_content('show-user')
 
   end
+
+  it 'should triggle js execute with params' do
+    expect(page).to have_content('Show')
+    click_link 'Show'
+    expect(page).to have_content('May the force be with you')
+  end
 end
