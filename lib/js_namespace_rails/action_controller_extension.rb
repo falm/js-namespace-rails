@@ -15,7 +15,7 @@ module JsNamespaceRails
     end
 
     def js_execute
-      view_context.render(partial: 'js_namespace_rails/init')
+      view_context.render(partial: 'js_namespace_rails/init.js.erb')
     end
 
     def insert_hook_script
