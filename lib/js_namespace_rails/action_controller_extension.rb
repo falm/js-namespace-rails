@@ -6,6 +6,7 @@ module JsNamespaceRails
       base.module_eval do
         helper_method :js_execute
         helper_method :insert_hook_script
+        helper_method :initialize_script
       end
     end
 
@@ -15,11 +16,15 @@ module JsNamespaceRails
     end
 
     def js_execute
-      view_context.render(partial: 'js_namespace_rails/init.js.erb')
+      view_context.render partial: 'js_namespace_rails/init.js.erb'
     end
 
     def insert_hook_script
-      view_context.render(partial: 'js_namespace_rails/hook.js.erb')
+      view_context.render partial: 'js_namespace_rails/hook.js.erb'
+    end
+
+    def initialize_script
+      view_context.render partial: 'js_namespace_rails/initialize_script.html.erb'
     end
   end
   ::ActionController::Base.send :include, ActionControllerExtension
