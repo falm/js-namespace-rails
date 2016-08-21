@@ -20,6 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.licenses      = ["MIT"]
 
+  spec.required_ruby_version = '>= 2.0'
   spec.add_development_dependency 'railties', '>= 3.1'
   spec.add_development_dependency 'sprockets-rails'
   spec.add_development_dependency "bundler", ">= 1.8"
