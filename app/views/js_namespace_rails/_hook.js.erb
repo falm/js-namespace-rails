@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   document.body.setAttribute('data-controller', '<%= controller_path.gsub(/\//,'_') %>');
   document.body.setAttribute('data-action', '<%= action_name %>');
-  window.JsSpace.params = <%= raw @js_namespace_rails_params.to_json %>;
+  if(window.JsSpace){
+    window.JsSpace.params = <%= raw @js_namespace_rails_params.to_json %>;
+  }
 });
