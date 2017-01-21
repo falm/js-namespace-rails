@@ -3,6 +3,5 @@ rvm:
   - 2.1.5
   - 2.2
   - 2.3.0
-  - 2.4.0
 script: xvfb-run rspec
 before_install: gem install bundler -v 1.11.2
