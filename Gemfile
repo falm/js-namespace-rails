@@ -5,4 +5,5 @@ gemspec
 
 group :test do
   gem 'jquery-rails'
+  gem "sprockets-es6"
 end
