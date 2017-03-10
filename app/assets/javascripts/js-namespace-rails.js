@@ -9,6 +9,8 @@
 
     self.INIT = 'init';
 
+    self.RESERVE = ['new'];
+
     self.controllerList = {};
 
     self.on = function(controllerName, obj){
@@ -37,6 +39,8 @@
 
         if(activeController[actionName] !== undefined && typeof activeController[actionName] === 'function'){
           activeController[actionName].call(activeController, params);
+        } else if ( self.RESERVE.indexOf(actionName) >= 0 && activeController['_' + actionName] !== undefined) {
+          activeController['_' + actionName].call(activeController, params);
         }
       }
     };
